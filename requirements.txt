@@ -1,0 +1,4 @@
+openai
+pymupdf4llm
+chromadb
+python-fasthtml
